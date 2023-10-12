@@ -1,1 +1,2 @@
-# someGitMess
+## someGitMess
+some changes
